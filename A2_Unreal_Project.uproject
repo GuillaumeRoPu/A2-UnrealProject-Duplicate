@@ -20,6 +20,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
 			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
 		}
